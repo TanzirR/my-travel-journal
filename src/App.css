@@ -1,0 +1,77 @@
+html, body {
+  margin: 0;
+}
+
+.header-sec{
+  background-color: #F55A5A;
+  font-family: "Inter", serif ;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  font-size: 0.90375rem;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color:white;
+}
+
+.journal-entry{
+  display:flex;
+  margin: 120px;
+  gap:50px;
+}
+.main-img{
+  width: 375px;
+  height: 504px;
+  border-radius: 20px;
+  object-fit: cover;
+}
+
+.first-header{
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: -10px;
+  margin-top: 50px;
+}
+.country-name{
+  font-family: "Inter", serif;
+  font-weight: 400;
+  font-size: 32.24px;
+  color: #2B283A;
+  letter-spacing: 4px;
+}
+.country-link{
+  font-family: "Inter", serif;
+  font-weight: 400;
+  color: #918E9B;
+  font-size: 32.24px;
+  text-underline-offset: 7px;
+  text-decoration-thickness: 2px
+}
+
+.location-name{
+  font-family: "Inter", serif;
+  font-weight: 700;
+  font-size: 70px;
+  margin-top: 0;
+  color: #2B283A;
+ 
+}
+
+.date{
+  font-family: "Inter", serif;
+  font-weight: 700;
+  color: #2B283A;
+  font-size: 32px;
+  margin-top: -20px;
+
+}
+
+p{
+  font-family: "Inter", serif;
+  font-weight: 400;
+  color: #2B283A;
+  font-size: 32px;
+}
