@@ -1,6 +1,6 @@
 # My Travel Journal 🌍
 
-A **React.js** desktop application that allows users to document their travel experiences in an intuitive and visually appealing way. This project is designed to help travelers keep track of their journeys by writing journal entries, adding photos, and organizing trips in one cohesive platform.
+A **React.js** desktop application that allows users to keep track of their journeys by writing journal entries, adding photos, and organizing trips in one cohesive platform.
 
 ## 🖥️ Live Demo
 Check out the live version of the application here: [Travel Chronicles](https://travelchronicles.netlify.app/)
