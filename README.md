@@ -31,9 +31,9 @@ my-travel-journal/
 ├── package.json
 ```
 
-## 🎨 Screenshots
+## 🎨 Live
 
-> Add your screenshots or demo GIFs here to showcase the app's features visually!
+travelchronicles.netlify.app/
 
 ## 📦 Setup Instructions
 
