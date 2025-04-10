@@ -11,9 +11,6 @@ A **React.js** desktop application that allows users to document their travel ex
 ## 🚀 Tech Stack
 
 - **Frontend:** React.js, HTML, CSS
-- **Styling:** Modern CSS
-- **State Management:** React Hooks
-- **Data Handling:** Local storage or JSON-based data storage
 
 ## 📂 Project Structure
 
