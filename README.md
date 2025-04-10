@@ -36,6 +36,8 @@ my-travel-journal/
 
 ## 📦 Setup Instructions
 
+## 📦 Setup Instructions
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/TanzirR/my-travel-journal.git
@@ -50,12 +52,9 @@ my-travel-journal/
    ```
 4. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
-5. Open your browser and navigate to:
-   ```
-   http://localhost:3000
-   ```
+5. Open your browser and navigate to the provided local development server URL (e.g., `http://localhost:5173`).
 
 ## 🌱 Future Enhancements
 
